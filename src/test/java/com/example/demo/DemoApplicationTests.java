@@ -9,6 +9,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	// 测试
+	// ceshi
+	@Test
+	public void test(){
+		System.out.println("hello git");
+	}
+	
 	@Test
 	public void contextLoads() {
 	}
