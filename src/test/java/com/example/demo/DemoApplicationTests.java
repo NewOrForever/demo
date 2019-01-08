@@ -14,6 +14,7 @@ public class DemoApplicationTests {
 	public void test(){
 		System.out.println("hello git");
 		System.out.println("git diff test");
+		System.out.println("git diff cached");
 	}
 	
 	@Test
