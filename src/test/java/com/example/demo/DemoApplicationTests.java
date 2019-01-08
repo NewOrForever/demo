@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	@Test
 	public void test(){
 		System.out.println("hello git");
+		System.out.println("git diff test");
 	}
 	
 	@Test
