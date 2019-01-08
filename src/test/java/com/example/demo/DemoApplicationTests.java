@@ -17,12 +17,13 @@ public class DemoApplicationTests {
 		System.out.println("git diff cached");
 	}
 	
+	
 	// 分支测试
 	@Test
 	public void testBranch(){
 		System.out.println("解决冲突 & solve confict");
 		
-		System.out.println("master修改多处");
+		System.out.println("master修改多处&修改多处a");
 	}
 	
 	@Test
