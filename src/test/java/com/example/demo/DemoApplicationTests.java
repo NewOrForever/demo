@@ -24,6 +24,8 @@ public class DemoApplicationTests {
 		System.out.println("解决冲突 & solve confict");
 		
 		System.out.println("master修改多处&修改多处a");
+		
+		System.out.println("no-ff冲突解决-dev");
 	}
 	
 	@Test
