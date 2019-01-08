@@ -17,6 +17,12 @@ public class DemoApplicationTests {
 		System.out.println("git diff cached");
 	}
 	
+	// 分支测试
+	@Test
+	public void testBranch(){
+		
+	}
+	
 	@Test
 	public void contextLoads() {
 	}
