@@ -21,6 +21,8 @@ public class DemoApplicationTests {
 	@Test
 	public void testBranch(){
 		System.out.println("解决冲突 & solve confict");
+		
+		System.out.println("master修改多处");
 	}
 	
 	@Test
