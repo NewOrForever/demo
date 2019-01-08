@@ -20,7 +20,7 @@ public class DemoApplicationTests {
 	// 分支测试
 	@Test
 	public void testBranch(){
-		
+		System.out.println("solve confict");
 	}
 	
 	@Test
