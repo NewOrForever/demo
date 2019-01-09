@@ -26,6 +26,8 @@ public class DemoApplicationTests {
 		System.out.println("master修改多处&修改多处a");
 		
 		System.out.println("no-ff master & no-ff冲突解决-dev");
+		
+		System.out.println("bug修复-issue-101");
 	}
 	
 	@Test
