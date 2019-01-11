@@ -28,6 +28,12 @@ public class DemoApplicationTests {
 		System.out.println("no-ff master & no-ff冲突解决-dev");
 	}
 	
+	// bug分支测试
+	@Test
+	public void testBug(){
+		
+	}
+	
 	@Test
 	public void contextLoads() {
 	}
