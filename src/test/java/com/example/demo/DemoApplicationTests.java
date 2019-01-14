@@ -30,6 +30,12 @@ public class DemoApplicationTests {
 		System.out.println("bug修复-issue-101");
 	}
 	
+	// bug分支测试
+	@Test
+	public void testBug(){
+		
+	}
+	
 	@Test
 	public void contextLoads() {
 	}
