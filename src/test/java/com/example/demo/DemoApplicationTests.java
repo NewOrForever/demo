@@ -28,6 +28,8 @@ public class DemoApplicationTests {
 		System.out.println("no-ff master & no-ff冲突解决-dev");
 		
 		System.out.println("bug修复-issue-101");
+		
+		System.out.println("can stash push to remote?");
 	}
 	
 	// bug分支测试
